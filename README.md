@@ -134,7 +134,7 @@ Power BI | Power Query | DAX
   
  ## 💡 Recommendations
 ### 1) Improve Engagement for Younger Users
-— introduce gamified features, log in streaks, badges, or daily boosts to keep them active.
+- introduce gamified features, log in streaks, badges, or daily boosts to keep them active.
 
 ### 2) Expand Premium Offerings
 - With 12K premium members, consider loyalty rewards, or predictive compatibility scoring.
